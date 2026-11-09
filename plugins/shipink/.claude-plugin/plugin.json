@@ -1,0 +1,11 @@
+{
+  "name": "shipink",
+  "version": "0.1.0",
+  "description": "Build Shipink REST API integrations: orders, rates, shipments, labels, COD and tracking.",
+  "author": {
+    "name": "Shipink",
+    "url": "https://shipink.io"
+  },
+  "homepage": "https://docs.shipink.io/api",
+  "keywords": ["shipping", "cargo", "labels", "tracking", "turkey", "ecommerce"]
+}

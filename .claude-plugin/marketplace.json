@@ -1,0 +1,17 @@
+{
+  "name": "shipink",
+  "owner": {
+    "name": "Shipink",
+    "url": "https://shipink.io"
+  },
+  "metadata": {
+    "description": "Shipink plugins for coding agents"
+  },
+  "plugins": [
+    {
+      "name": "shipink",
+      "source": "./plugins/shipink",
+      "description": "Build Shipink REST API integrations: orders, rates, shipments, labels, COD and tracking."
+    }
+  ]
+}
