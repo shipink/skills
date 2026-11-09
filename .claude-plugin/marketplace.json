@@ -11,7 +11,7 @@
     {
       "name": "shipink",
       "source": "./plugins/shipink",
-      "description": "Build Shipink REST API integrations: orders, rates, shipments, labels, COD and tracking."
+      "description": "Build Shipink API integrations: create orders, compare carrier rates, buy shipping labels and track deliveries."
     }
   ]
 }
