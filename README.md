@@ -1,11 +1,11 @@
-# Shipink agent skills
+# Shipink skills
 
 Agent skill for building integrations with the [Shipink API](https://docs.shipink.io/api). It teaches a coding agent the order → rates → shipment → label → tracking flow, plus the pitfalls the OpenAPI spec does not spell out: retries on the non-idempotent `POST /shipments`, the two carrier account kinds, VAT, cash on delivery and the error codes.
 
 ## Claude Code
 
 ```
-/plugin marketplace add shipink/agent-skills
+/plugin marketplace add shipink/skills
 /plugin install shipink@shipink
 ```
 
